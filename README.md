@@ -17,7 +17,7 @@
 Understanding model behavior → exploiting structure → pushing efficiency limits
 
 🏢 Industry Experience:  
-• Focus on efficient LLM/VLM systems
+• Focus on efficient LLM/VLM systems  
 • Bridging research → real-world deployment
 
 📄 Publications:  
