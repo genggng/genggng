@@ -58,10 +58,10 @@ Hi, I am **Shigeng Wang (王世耿)**. My research sits at the intersection of L
 Python · PyTorch · CUDA · C/C++
 
 **ML/AI Tools**  
-vLLM · llama.cpp (GGUF) · TensorRT · OpenVINO · FlashAttention · PagedAttention
+vLLM · LLama.cpp (GGUF) · OpenVINO · FlashAttention · PagedAttention
 
 **Research Areas**  
-LLM Quantization · Model Compression · Efficient Inference · Distributed Training · Computer Vision
+LLM Quantization · Model Compression · Efficient Inference · Computer Vision
 
 ---
 
