@@ -1,14 +1,25 @@
 ## Hi there 👋
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=genggng&hide=[\"issues\",\"prs\",\"contribs\"]&show_icons=true&count_private=true&include_all_commits=true" />
+<table>
+<tr>
+<td>
+
+Hi, I am **Shigeng Wang (王世耿)**. My research sits at the intersection of LLM efficiency and real-world deployment — working on quantization, compression, and hardware-aware inference to make foundation models faster and cheaper.
 
 🧠 **Researcher** @ [Intel Labs China](https://yaoanbang.github.io/)  
 🎓 **PhD Candidate** @ [BUPT](https://www.bupt.edu.cn/) · Expected June 2026  
 📍 Beijing, China
 
----
+</td>
+<td width="400">
 
-### 📌 Quick Links
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genggng&hide=[\"issues\",\"prs\",\"contribs\"]&show_icons=true&count_private=true&include_all_commits=true)
+
+</td>
+</tr>
+</table>
+
+
 
 [![Gmail](https://img.shields.io/badge/Email-shigeng.wang%40intel.com-c14438?style=flat-square&logo=gmail)](mailto:shigeng.wang@intel.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-PdzN0--8AAAAJ-green?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=PdzN0-8AAAAJ)
