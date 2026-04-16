@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=genggng&hide=[\"issues\",\"prs\",\"contribs\"]&show_icons=true&count_private=true&include_all_commits=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genggng&hide=[\"issues\",\"prs\",\"contribs\"]&show_icons=true&count_private=true&include_all_commits=true)
 
 🧠 **Researcher** @ [Intel Labs China](https://yaoanbang.github.io/)  
 🎓 **PhD Candidate** @ [BUPT](https://www.bupt.edu.cn/) · Expected June 2026  
@@ -12,9 +12,8 @@
 
 [![Gmail](https://img.shields.io/badge/Email-shigeng.wang%40intel.com-c14438?style=flat-square&logo=gmail)](mailto:shigeng.wang@intel.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-PdzN0--8AAAAJ-green?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=PdzN0-8AAAAJ)
-[![GitHub](https://img.shields.io/badge/GitHub-genggng-181717?style=flat-square&logo=github)](https://github.com/genggng)
-[![个人主页](https://img.shields.io/badge/主页-genggng.github.io-2ecc71?style=flat-square)](https://genggng.github.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6878--9652-A6CE39?style=flat-square)](https://orcid.org/0009-0006-6878-9652)
+[![个人主页](https://img.shields.io/badge/主页-genggng.github.io-2ecc71?style=flat-square)](https://genggng.github.io/)
 
 ---
 
