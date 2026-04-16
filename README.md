@@ -68,7 +68,7 @@ LLM Quantization, Model Compression, Efficient Inference, Computer Vision
 ### 🎓 Education
 
 - **2021.09 – 2026.06**, Ph.D. in Computer Science, Beijing University of Posts and Telecommunications (BUPT)
-- **2017.09 – 2021.06**, B.Eng. in Data Science and Big Data Technology, BUPT
+- **2017.09 – 2021.06**, B.Eng. in Data Science and Big Data Technology, Beijing University of Posts and Telecommunications (BUPT)
 
 ---
 
