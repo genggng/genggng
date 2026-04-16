@@ -7,7 +7,7 @@
 Hi, I am **Shigeng Wang (王世耿)**. My research sits at the intersection of LLM efficiency and real-world deployment — working on quantization, compression, and hardware-aware inference to make foundation models faster and cheaper.
 
 🧠 **Researcher** @ [Intel Labs China](https://yaoanbang.github.io/)  
-🎓 **PhD Candidate** @ [BUPT](https://www.bupt.edu.cn/) · Expected June 2026  
+🎓 **PhD Candidate** @ [BUPT](https://www.bupt.edu.cn/), Expected June 2026  
 📍 Beijing, China
 
 </td>
@@ -55,38 +55,30 @@ Hi, I am **Shigeng Wang (王世耿)**. My research sits at the intersection of L
 ### 🛠 Tech Stack
 
 **Languages & Frameworks**  
-Python · PyTorch · CUDA · C/C++
+Python, PyTorch, CUDA, C/C++
 
 **ML/AI Tools**  
-vLLM · LLama.cpp (GGUF) · OpenVINO · FlashAttention · PagedAttention
+vLLM, LLama.cpp (GGUF), OpenVINO, FlashAttention, PagedAttention
 
 **Research Areas**  
-LLM Quantization · Model Compression · Efficient Inference · Computer Vision
+LLM Quantization, Model Compression, Efficient Inference, Computer Vision
 
 ---
 
-### 🏢 Industry Experience
+### 🎓 Education
 
-- **Core Developer** — [Yingtao App](https://cherry.pcelves.com/): AI PC intelligent assistant powered by SliderQuant, released by Intel (2025.11)
-- **Contributor** — [ppq_tools](https://github.com/OpenPPL/ppq_tools): User-friendly model quantization toolkit (2022.11)
+- **2021.09 – 2026.06**, Ph.D. in Computer Science, Beijing University of Posts and Telecommunications (BUPT)
+- **2017.09 – 2021.06**, B.Eng. in Data Science and Big Data Technology, BUPT
 
 ---
 
-### 🎖 Honors & Awards
+### 💼 Work Experience
 
-- 2022 · First-Class Scholarship, BUPT
-- 2022 · BUPT Excellent Ph.D. Students Foundation
-- 2021 · Outstanding Graduate of Beijing
-- 2020 · First Prize, National Undergraduate Mathematics Competition
-- 2020 · First Prize, China National Undergraduate E-Commerce Innovation & Entrepreneurship Challenge
-- 2019 · Second Prize, China Undergraduate Mathematical Modeling Competition
-- 2018 · National Encouragement Scholarship
+- **2024.04 – now**, Research Intern, Intel Labs China, Supervised by [Anbang Yao](https://yaoanbang.github.io/)
+- **2023.10 – 2024.03**, Research Intern, QCraft, Focusing on autonomous driving perception
 
 ---
 
 ### 📬 Contact
 
-- Email: [shigeng.wang@intel.com](mailto:shigeng.wang@intel.com) / [wangshigeng@bupt.edu.cn](mailto:wangshigeng@bupt.edu.cn)
-- GitHub: [https://github.com/genggng](https://github.com/genggng)
-- Google Scholar: [Profile](https://scholar.google.com/citations?user=PdzN0-8AAAAJ)
-- Homepage: [https://genggng.github.io/](https://genggng.github.io/)
+📧 [shigeng.wang@intel.com](mailto:shigeng.wang@intel.com)
