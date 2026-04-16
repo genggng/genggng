@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genggng&hide=[\"issues\",\"prs\",\"contribs\"]&show_icons=true&count_private=true&include_all_commits=true)
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=genggng&hide=[\"issues\",\"prs\",\"contribs\"]&show_icons=true&count_private=true&include_all_commits=true" />
 
 🧠 **Researcher** @ [Intel Labs China](https://yaoanbang.github.io/)  
 🎓 **PhD Candidate** @ [BUPT](https://www.bupt.edu.cn/) · Expected June 2026  
