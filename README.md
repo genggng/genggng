@@ -6,7 +6,7 @@
 
 Hi, I am **Shigeng Wang (王世耿)**. My research sits at the intersection of LLM efficiency and real-world deployment — working on quantization, compression, and hardware-aware inference to make foundation models faster and cheaper.
 
-🧠 **Researcher** @ [Intel Labs China](https://yaoanbang.github.io/)  
+🧠 **Researcher** @ [Intel Labs China](https://www.intel.com/content/www/us/en/research/overview.html)  
 🎓 **PhD Candidate** @ [BUPT](https://www.bupt.edu.cn/), Expected June 2026  
 📍 Beijing, China
 
@@ -74,7 +74,7 @@ LLM Quantization, Model Compression, Efficient Inference, Computer Vision
 
 ### 💼 Work Experience
 
-- **2024.04 – now**, Research Intern, Intel Labs China, Supervised by [Anbang Yao](https://yaoanbang.github.io/)
+- **2024.04 – now**, Research Intern, [Intel Labs China](https://www.intel.com/content/www/us/en/research/overview.html), Supervised by Anbang Yao
 - **2023.10 – 2024.03**, Research Intern, QCraft, Focusing on autonomous driving perception
 
 ---
