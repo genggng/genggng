@@ -75,7 +75,7 @@ LLM Quantization, Model Compression, Efficient Inference, Computer Vision
 ### 💼 Work Experience
 
 - **2024.04 – now**, Research Intern, [Intel Labs China](https://www.intel.com/content/www/us/en/research/overview.html), Supervised by Anbang Yao
-- **2023.10 – 2024.03**, Research Intern, QCraft, Focusing on autonomous driving perception
+- **2023.10 – 2024.03**, Research Intern, [QCraft](https://www.qcraft.ai/), Focusing on autonomous driving perception
 
 ---
 
