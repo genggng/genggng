@@ -43,7 +43,7 @@ Hi, I am **Shigeng Wang (王世耿)**. My research sits at the intersection of L
 |------|-------|-------|
 | 2026 | **ICLR** | **SliderQuant**: Accurate Post-Training Quantization for Large Language Models [[Paper](https://arxiv.org/abs/2603.25284)] [[Code](https://github.com/deep-optimization/SliderQuant)] [[Project](https://deep-optimization.github.io/sliderquant/)] |
 | 2026 | **CVPR** | Chain-of-Models Pre-training (CoM_PT): Lossless Training Acceleration at Foundation Model Scale [[Paper](https://arxiv.org/abs/2604.12391)] |
-| 2026 | **ICASSP** | Dynabits: Token-Aware Weight–Activation Quantization for Large Vision–Language Models |
+| 2026 | **ICASSP** | Dynabits: Token Aware Weight-Activation Quantization for Large Vision-Language Models |
 | 2026 | **ICASSP** | VARDet: Visual Autoregressive Multi-Scale Prediction and CLIP-Guided Semantics for UAV Small-Object Detection |
 | 2026 | **ICASSP** | Foreground-Enhanced Coarse-to-Fine Detection for UAV Small Objects |
 | 2023 | **eBioMedicine** | Development and Multi-Center Validation of a ML Model for Early Detection of Fungal Keratitis |
