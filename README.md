@@ -59,4 +59,4 @@ vLLM, LLama.cpp (GGUF), OpenVINO, FlashAttention, PagedAttention
 ### 📬 Contact
 
 📧 [shigeng.wang@intel.com](mailto:shigeng.wang@intel.com)  
-🔗 了解更多，访问个人主页：[genggng.github.io](https://genggng.github.io/)
+🔗 Learn more on my personal website: [genggng.github.io](https://genggng.github.io/)
